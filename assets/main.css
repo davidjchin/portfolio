@@ -61,13 +61,12 @@ a{
 }
 /* selected nav links */
 nav a.selected , nav a:hover{
-  color: #326737;
-  font-size: 50px;
+  color: #ff0000;
 }
 /* site body */
 body{
   background: #fff;
-  color: #999;
+  color: #000000;
 }
 
 
@@ -83,8 +82,4 @@ nav{
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 0;
-}
-
-img{
-
 }
